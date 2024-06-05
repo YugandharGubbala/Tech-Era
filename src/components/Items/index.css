@@ -1,0 +1,16 @@
+.itemcontainer {
+  display: flex;
+  text-decoration: none;
+
+  margin: 24px;
+  align-items: center;
+}
+.itemimage {
+  height: 80px;
+  width: 80px;
+  margin: 4px;
+}
+.itempara {
+  
+  color: black;
+}

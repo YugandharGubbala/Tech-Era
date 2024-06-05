@@ -1,0 +1,27 @@
+.bodycontainer {
+  background-color: #ffffff;
+  height: 90%;
+  width: 100%;
+  padding: 30px;
+}
+.maincontainer {
+  height: 100vh;
+  width: 100vw;
+}
+.unorder {
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  list-style-type: none;
+}
+.loader-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
